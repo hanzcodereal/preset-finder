@@ -1,0 +1,1 @@
+{ "functions": { "api/find.js": { "maxDuration": 60 }, "api/video.js": { "maxDuration": 60 } } }
